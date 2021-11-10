@@ -1,0 +1,14 @@
+C:\Users\ricae\source\repos\Pet Shop\Pet Shop\bin\Release\Pet Shop.exe.config
+C:\Users\ricae\source\repos\Pet Shop\Pet Shop\bin\Release\Pet Shop.exe
+C:\Users\ricae\source\repos\Pet Shop\Pet Shop\bin\Release\Pet Shop.pdb
+C:\Users\ricae\source\repos\Pet Shop\Pet Shop\obj\Release\Pet_Shop.AddItem.resources
+C:\Users\ricae\source\repos\Pet Shop\Pet Shop\obj\Release\Pet_Shop.Cadastro.resources
+C:\Users\ricae\source\repos\Pet Shop\Pet Shop\obj\Release\Pet_Shop.MainForm.resources
+C:\Users\ricae\source\repos\Pet Shop\Pet Shop\obj\Release\Pet_Shop.Properties.Resources.resources
+C:\Users\ricae\source\repos\Pet Shop\Pet Shop\obj\Release\Pet Shop.csproj.GenerateResource.cache
+C:\Users\ricae\source\repos\Pet Shop\Pet Shop\obj\Release\Pet Shop.csproj.CoreCompileInputs.cache
+C:\Users\ricae\source\repos\Pet Shop\Pet Shop\obj\Release\Pet Shop.exe
+C:\Users\ricae\source\repos\Pet Shop\Pet Shop\obj\Release\Pet Shop.pdb
+C:\Users\ricae\source\repos\Pet Shop\Pet Shop\obj\Release\Pet Shop.csproj.AssemblyReference.cache
+C:\Users\ricae\source\repos\Pet Shop\Pet Shop\obj\Release\Pet_Shop.Carrinho.resources
+C:\Users\ricae\source\repos\Pet Shop\Pet Shop\obj\Release\Pet_Shop.Login.resources
